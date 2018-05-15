@@ -1,0 +1,99 @@
+@import url(reset.css);
+@import url(//fonts.googleapis.com/css?family=Life+Savers:400,700);
+
+/*COMMON*/
+html{
+	width:100%;
+	height:100%;
+	background:#d4477c url(../img/bg.png) center top repeat-x;
+	font:14px Verdana, Geneva, sans-serif;
+	color:#fff;
+}
+
+body{
+	position:relative;
+	width:992px;
+	min-height:100%;
+	margin:30px auto;
+}
+
+.clear{
+	clear:both;
+}
+.floatL{
+	float:left;
+}
+.floatR{
+	float:right;
+}
+.center{
+	text-align:center;
+}
+.right{
+	text-align:right;
+}
+p{
+	padding:0 0 15px;
+}
+a{
+	color:#2b2c2e;
+	text-decoration:none;
+}
+a:hover{
+  color: #fff;
+	text-decoration:underline;
+}
+
+ul.defaultList{
+	list-style:outside disc;
+	padding:0 0 0 15px;
+}
+ul.defaultList li{
+	padding:0 0 10px;
+}
+
+.white{
+	color:#fff !important;
+}
+
+h1{
+	font:700 35px 'Life Savers', cursive;
+	padding:0 0 30px;
+}
+h2{
+	font:700 20px 'Life Savers', cursive;
+	padding:5px 0 10px;
+}
+
+p.floatL{
+  width:75%;
+}
+h2 + p.floatL{
+  width:25% !important;
+}
+
+.txt{
+	width:300px;
+	padding:50px 0 0;
+}
+.imgBox{
+	width:295px;
+	height:376px;
+	padding:13px 0 0 18px;
+	margin:60px 0 40px;
+	background:url(../img/bg-picture.png) no-repeat;
+}
+
+section.mainContent{
+	min-height:450px;
+	padding:20px 40px 60px 80px;
+	background:url(../img/bg-page.png) center top repeat-y;
+}
+
+footer{
+	position:relative;
+	padding:35px 0 35px 30px;
+	font-size:12px;
+	color:#5a0e2a;
+	z-index:50;
+}
