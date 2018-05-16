@@ -9,7 +9,7 @@
 
 <body>
 <header class="about">
-  <h1><a href="javascript:;" onclick="showDetails();">Simplon.co</a></h1>
+  <h1 id="myName">Simplon.co</h1>
   <p class="address floatL" id="address" style="display:none;">28 Avenue Georges Corneau<br>
     08000 Charleville-Mézières<br>
     Tél : 03 24 56 62 66<br>
@@ -42,5 +42,8 @@
 <footer class="clear">
 
 </footer>
+<script>
+document.getElementById("myName").addEventListener("click", showDetails);
+</script>
 </body>
 </html>

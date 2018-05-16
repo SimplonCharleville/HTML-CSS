@@ -59,6 +59,7 @@ ul.defaultList li{
 h1{
 	font:700 35px 'Life Savers', cursive;
 	padding:0 0 30px;
+	cursor:pointer;
 }
 h2{
 	font:700 20px 'Life Savers', cursive;
