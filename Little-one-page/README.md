@@ -24,7 +24,7 @@ A partir de la maquette fournie, créer la page en HTML/CSS en **respectant la c
 * Slider dans le header
 * Full responsive
 * Gestion des données du formulaire en Ajax (avec récapitulatif des données saisies, sans saisie en DB)
-* Ajout de nouvelles rubriques (avec background full page, flexbox, animations, ...)
+* Ajout de nouvelles rubriques (avec background full page, parallax, flexbox, animations, ...)
 * ...
 
 # HTML5/CSS3 : PAS DE TABLES
