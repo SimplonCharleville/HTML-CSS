@@ -1,0 +1,91 @@
+@import url(reset.css);
+
+/*COMMON*/
+html{
+	width:100%;
+	height:100%;
+	background:#ededed;
+	font:400 62.5% 'Arvo', serif;
+	color:#000;
+}
+
+body{
+	position:relative;
+	height:100%;
+	margin:0 auto;
+	font-size:1.8rem;
+}
+
+main{
+	/*max-width:450px;
+	margin:0 auto;*/
+	text-align:center;
+}
+h1{
+	font-size:5.2rem;
+	font-weight:400;
+	padding:50px 0;
+}
+main > div{
+	display:flex;
+	position:relative;
+	width:450px;
+	margin:0 auto;
+}
+main > div div{
+	position:relative;
+	width:290px;
+	text-align:left;
+	margin:0 0 0 30px;
+}
+p{
+	display:none;
+}
+p span{
+	display:block;
+	margin:10px 0 25px;
+}
+
+a{
+	position:absolute;
+	top:75px;
+	left:0;
+	width:60px;
+	height:60px;
+	border-radius:50%;
+	background-color:rgba(0, 0, 0, 0.7);
+	display:block;
+	z-index:999;
+}
+a:hover{
+	background-color:rgba(255, 0, 0, 0.7);
+}
+a:nth-child(3){
+	top:165px;
+	left:95px;
+}
+a:nth-child(4){
+	top:200px;
+	left:-15px;
+}
+a:nth-child(5){
+	top:230px;
+	left:75px;
+}
+a:nth-child(6){
+	top:320px;
+	left:20px;
+}
+a:nth-child(7){
+	top:410px;
+	left:60px;
+}
+
+a:nth-child(2):hover ~ div p:nth-child(1),
+a:nth-child(3):hover ~ div p:nth-child(2),
+a:nth-child(4):hover ~ div p:nth-child(3),
+a:nth-child(5):hover ~ div p:nth-child(4),
+a:nth-child(6):hover ~ div p:nth-child(5),
+a:nth-child(7):hover ~ div p:nth-child(6){
+	display:block;
+}
