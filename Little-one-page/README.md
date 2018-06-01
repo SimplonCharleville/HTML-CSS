@@ -21,6 +21,11 @@ A partir de la maquette fournie, créer la page en HTML/CSS en **respectant la c
 * Personnalisation du marqueur Google map
 * Animations CSS3 des textes du header, au survol des images de la section1 (par ex. agrandissement), ...
 * Smooth scroll vers les rubriques en JS
+* Slider dans le header
 * Full responsive
+* Gestion des données du formulaire en Ajax (avec récapitulatif des données saisies, sans saisie en DB)
+* Ajout de nouvelles rubriques (avec background full page, flexbox, animations, ...)
+* ...
 
 # HTML5/CSS3 : PAS DE TABLES
+# Langages natifs (pas de bootstrap ou grid ...)
