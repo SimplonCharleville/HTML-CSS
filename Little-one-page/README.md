@@ -29,5 +29,6 @@ A partir de la maquette fournie, créer la page en HTML/CSS en **respectant la c
 
 # HTML5/CSS3 : PAS DE TABLES
 ## Langages natifs (pas de bootstrap ou grid ...)
+## A déposer sur Github
 
 # !! Prévenez-moi quand vous avez terminé la 1ère partie !!
