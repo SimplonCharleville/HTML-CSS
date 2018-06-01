@@ -5,7 +5,7 @@ A partir de la maquette fournie, créer la page en HTML/CSS en **respectant la c
 * Utilisez le rem comme unité pour la font.
 * Utilisez des images au choix
 * Couleurs libres
-* Header, Google Map et footer full width, corps de page 980px
+* Header, Google Map et footer full width. Corps de page 980px
 * Font regular Trebuchet MS + alternatives
   * Titre : 60px
   * Baseline + Sous-titres : 36px
@@ -28,4 +28,6 @@ A partir de la maquette fournie, créer la page en HTML/CSS en **respectant la c
 * ...
 
 # HTML5/CSS3 : PAS DE TABLES
-# Langages natifs (pas de bootstrap ou grid ...)
+## Langages natifs (pas de bootstrap ou grid ...)
+
+# !! Prévenez-moi quand vous avez terminé la 1ère partie !!
