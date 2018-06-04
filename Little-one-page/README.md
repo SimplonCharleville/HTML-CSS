@@ -17,7 +17,7 @@ A partir de la maquette fournie, créer la page en HTML/CSS en **respectant la c
 * Intégration d'une vraie Google map
 * Formulaire sans check JS mais avec les bons types d'input
 
-### Version à terminer pour lundi 04/01 à 12h30
+### Version à terminer pour lundi 04/06 à 12h30
 
 ## Bonus
 * Personnalisation du marqueur Google map
