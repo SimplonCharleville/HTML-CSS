@@ -4,7 +4,7 @@
 #### Vous devrez peut-être ajouter/adpater des éléments pour effectuer le minimum demandé, mais l'objectif ici est d'utiliser SASS, pas d'écrire du HTML.
 
 Vous devez, à minima :
-* en "natif" :
+* en "natif" (vos fichiers auront une extension .scss) :
   * écrire des variables
   * écrire des nesting
   * écrire des extensions de classe
