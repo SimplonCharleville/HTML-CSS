@@ -1,7 +1,7 @@
 # Exercice SASS / Compass
 
 ### A partir du fichier HTML du projet "Little One Page" ou "Simplon Charleville", recréer le CSS en utilisant SASS et Compass.
-#### Vous devrez peut-être ajouter des éléments pour effectuer le minimum demandé.
+#### Vous devrez peut-être ajouter/adpater des éléments pour effectuer le minimum demandé, mais l'objectif ici est d'utiliser SASS, pas d'écrire du HTML.
 
 Vous devez, à minima :
 * en "natif" :
