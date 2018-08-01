@@ -16,6 +16,8 @@ Vous devez, à minima :
   * utiliser différents éléments du framework (au moins 1 mixin et 1 fonction) (cf documentation)
   * ajouter des feuilles de style partielles pour le header et le footer
   * créer un sprite CSS avec les icônes fournis avec effet hover (à ajouter par ex. dans le footer)
+  
+ Vous pouvez ensuite ajouter autant d'élèments que vous le souhaitez...
 
 ### Ressources :
 * [Blog du MMI : tuto rapide pour débuter](https://blogdummi.fr/tutoriel/booste-ton-workflow-1-apprendre-sass-et-compass-tutoriel/)
