@@ -15,7 +15,7 @@ Vous devez, à minima :
   * ajouter le reset
   * utiliser différents éléments du framework (au moins 1 mixin et 1 fonction) (cf documentation)
   * ajouter des feuilles de style partielles pour le header et le footer
-  * créer un sprite CSS avec au moins 3 pictos (par ex. réseaux sociaux dans le footer)
+  * créer un sprite CSS avec au moins 3 pictos avec effet hover (par ex. réseaux sociaux dans le footer)
 
 ### Ressources :
 * [Blog du MMI : tuto rapide pour débuter](https://blogdummi.fr/tutoriel/booste-ton-workflow-1-apprendre-sass-et-compass-tutoriel/)
