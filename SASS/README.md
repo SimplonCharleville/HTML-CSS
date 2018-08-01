@@ -5,16 +5,16 @@
 
 Vous devez, à minima :
 * en "natif" :
- * écrire des variables
- * écrire des nesting
- * écrire des extensions de classe
- * écrire au moins 1 placeholder
- * écrire au moins 1 mixin
+  * écrire des variables
+  * écrire des nesting
+  * écrire des extensions de classe
+  * écrire au moins 1 placeholder
+  * écrire au moins 1 mixin
 * avec Compass :
- * ajouter Compass à votre projet
- * ajouter le reset
- * ajouter différents éléments du framework (au moins 1 mixin et 1 fonction) (cf documentation)
- * ajouter des feuilles de style partielles pour le header et le footer
+  * ajouter Compass à votre projet
+  * ajouter le reset
+  * ajouter différents éléments du framework (au moins 1 mixin et 1 fonction) (cf documentation)
+  * ajouter des feuilles de style partielles pour le header et le footer
 
 Ressources :
 [Blog du MMI : tuto rapide pour débuter](https://blogdummi.fr/tutoriel/booste-ton-workflow-1-apprendre-sass-et-compass-tutoriel/)
