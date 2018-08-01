@@ -20,6 +20,7 @@ Pour l'exercie, vous devez à minima :
 * [Site W3C : la bible de l'accessibilité](https://www.w3.org/Translations/WCAG20-fr/)
 * [AcceDe Web : guide complet](https://www.accede-web.com/)
 * [MDN : guide sur la sémantique HTML](https://developer.mozilla.org/fr/docs/Apprendre/a11y/HTML)
+* [MDN : guide sur les attributs role](https://www.w3.org/TR/wai-aria/#roles)
 * [MDN : guide sur les éléments multimédia](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Multimedia)
 * [WAVE : un outil pour vérifier l'accessibilité de votre site](https://wave.webaim.org/)
 * ...
