@@ -13,6 +13,10 @@ Pour l'exercie, vous devez à minima :
 * ajouter un "fil d'ariane"
 * ajouter un fichier "robots.txt" indiquant que toutes les pages doivent être référencées en excluant la page de résultat de recherche (page fictive)
 * ajouter un fichier .htaccess redirigeant vers le nom de domaine avec www
+* mettre le site sur le serveur simplon et le vérifier avec les outils
+  * [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
+  * [Mobile Friendly Check](https://search.google.com/test/mobile-friendly)
+  * [alyse](https://alyze.info/)
   
  Vous pouvez ensuite ajouter autant d'élèments que vous le souhaitez...
 
