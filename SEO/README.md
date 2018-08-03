@@ -7,7 +7,7 @@
 Pour l'exercie, vous devez à minima :
 * vérifier et optimiser la syntaxe HTML en utilisant les éléments sémantiques
 * vérifier la langue définie, ajouter du texte français et renommer les pages en français si nécessaire
-* intégrer des titres explicitent et une balise meta description récapitulant le contenu de la page
+* intégrer des titres de page explicitent et une balise meta description récapitulant le contenu de la page
 * nommer vos images correctement et ajouter des textes de remplacement cohérents à vos images (quand c'est nécessaire)
 * ajouter une page sitemap
 * ajouter un "fil d'ariane"
