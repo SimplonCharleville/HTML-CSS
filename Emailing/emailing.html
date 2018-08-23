@@ -1,17 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>A Responsive Email Template</title>
-<!--
-
-    An email present from your friends at Litmus (@litmusapp)
-
-    Email is surprisingly hard. While this has been thoroughly tested, your mileage may vary.
-    It's highly recommended that you test using a service like Litmus (http://litmus.com) and your own devices.
-
-    Enjoy!
-
- -->
+<title>Exemple d'emailing responsive</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -79,7 +69,7 @@
 	<div align="center" style="background-color:#ffffff">
 		<table style="display:inline-table;" border="0" cellpadding="0" cellspacing="0" width="600" bgcolor="#ffffff" class="w600">
 			<tr>
-				<td colspan="3" height="30" bgcolor="#f1f1f1" align="center" valign="middle" class="txt2" style="padding:0;margin:0;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#7f7f7f;line-height:normal;">Si vous ne parvenez pas &agrave; lire cet email, <a href="#" target="_blank" style="color:#7f7f7f;text-decoration:underline;"><span style="color:#7f7f7f;">cliquez ici (lien vers la page HTML)</span></a></td>
+				<td colspan="3" height="30" bgcolor="#f1f1f1" align="center" valign="middle" class="txt2" style="padding:0;margin:0;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#7f7f7f;line-height:normal;">Si vous ne parvenez pas &agrave; lire cet email, <a href="#" target="_blank" style="color:#7f7f7f;text-decoration:underline;"><span style="color:#7f7f7f;">cliquez ici</span></a> (lien vers la page HTML)</td>
 			</tr>
 			<tr>
 				<td width="60" class="w60"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="60" height="40" border="0" style="display:block;" /></td>
@@ -107,16 +97,20 @@
 				<td align="left" style="padding:0;margin:0;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:normal;color:#7f7f7f;line-height:normal;">
 					<p style="padding:0;margin:0 0 1.4em 0;">
             - Utiliser les balises standards (table, tr, td, span&hellip;) pour la structure. La sémantique HTML n'a pas d'importance car il n'y a pas de besoin de référencement.<br />
-            - <b>Ne pas utiliser de JavaScript</b><br />
-            - Définir les styles directement dans les balises &lt;TD&gt;, &lt;TABLE&gt;, &lt;P&gt;, &lt;A&gt;, &lt;IMG&gt;, &hellip;. Utiliser le style dans le &lt;HEAD&gt; pour la version responsive et les déclarations générales qui seront prises en compte sur certains clients.<br />
+            - <b>Ne pas utiliser de JavaScript.</b><br />
+            - Définir les styles directement dans les balises &lt;TD&gt;, &lt;TABLE&gt;, &lt;P&gt;, &lt;A&gt;, &lt;IMG&gt;, &hellip;.<br />
+            - Utiliser le style dans le &lt;HEAD&gt; pour la version responsive et les déclarations générales qui seront prises en compte sur les clients modernes.<br />
             - Utiliser des polices de caractères standards. L'utilisation de Web Fonts est possible mais pas compatible avec beaucoup de client mail. Bien penser à définir les polices alternatives.<br />
+            - <b>Ne pas utiliser d'images en background dans la version par défaut.</b>
             - Définir les tailles de lignes et colonnes en utilisant des "spacers" (gif transparents). Des cellules vides ne sont parfois pas prises en compte sous certains clients.<br />
-            - Définir les tailles des natives des images.<br />
-            - Utiliser les formats JPG et GIF (pas de PNG, SVG).<br />
+            - Définir les tailles natives des images.<br />
+            - Utiliser les formats JPG et GIF pour les images (pas de PNG, SVG).<br />
+            - Ajouter des ALT aux images quand nécessaires (certains clients, par défaut, n'affichent pas les images mais afficherons le texte alternatif).<br />
             - L'appel des images doit se faire en HTTP, directement depuis le serveur ou elles sont hébergées.<br />
             - Encoder les caract&egrave;res sp&eacute;ciaux. Sous certaines bo&icirc;tes mail, ils peuvent appara&icirc;tre sous la forme &#65533;&nbsp;!!<br />
             Vous pouvez vous aider de cet outil en ligne&nbsp;: <a href="http://usefulwebtool.com/fr/convertir-entites-html.php" target="_blank" style="color:#7f7f7f;text-decoration:underline;"><span style="color:#7f7f7f;">http://usefulwebtool.com/fr/convertir-entites-html.php</span></a><br />
-            - Cet emailing est un exemple assez simple, c'est une bonne base. Des modèles plus avancés (et encore plus compatibles) sont disponibles sur le Web. Par exemple ceux de <a href="https://litmus.com/resources/free-responsive-email-templates" target="_blank" style="color:#7f7f7f;text-decoration:underline;"><span style="color:#7f7f7f;">Litmus</a></span>.</p>
+            - Ajouter un lien vers la page HTML hébergée si le client mail n'affiche pas les emailings HTML.<br />
+            - Cet emailing est un exemple assez simple, c'est une bonne base. Des modèles plus avancés (et encore plus compatibles) sont disponibles sur le Web. Par exemple ceux de <a href="https://litmus.com/resources/free-responsive-email-templates" target="_blank" style="color:#7f7f7f;text-decoration:underline;"><span style="color:#7f7f7f;">Litmus</span></a>.</p>
 				</td>
 				<td height="1"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="1" border="0" style="display:block;" /></td>
 			</tr>
