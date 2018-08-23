@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>A Responsive Email Template</title>
+<!--
+
+    An email present from your friends at Litmus (@litmusapp)
+
+    Email is surprisingly hard. While this has been thoroughly tested, your mileage may vary.
+    It's highly recommended that you test using a service like Litmus (http://litmus.com) and your own devices.
+
+    Enjoy!
+
+ -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<style type="text/css">
+    /* CLIENT-SPECIFIC STYLES */
+    body, table, td, a{-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+    table, td{mso-table-lspace: 0pt; mso-table-rspace: 0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+    img{-ms-interpolation-mode: bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+    /* RESET STYLES */
+    img{border: 0; line-height: 100%; outline: none; text-decoration: none;}
+    table{border-collapse: collapse !important;}
+    body{height: 100% !important; margin: 0 !important; padding: 0 !important; width: 100% !important;}
+
+    /* iOS BLUE LINKS */
+    a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+    }
+
+		@media only screen and (max-width:480px) {
+			table[class=w600] {
+				width: 320px !important;
+			}
+			td[class=w60],
+			td[class=w60] img {
+				width: 20px !important;
+			}
+			td[class=w480],
+			td[class=w480] img {
+				width: 280px !important;
+			}
+			td[class=img1] img,
+			td[class=img2] img {
+				display: none !important;
+			}
+			td[class=img1],
+			td[class=img2] {
+				background-position: center bottom;
+				background-repeat: no-repeat;
+			}
+			td[class=img1] {
+				width: 320px !important;
+				height: 243px;
+				background-image: url(http://www.simplon-charleville.fr/emailing/visu-rsp.jpg);
+			}
+			td[class=img2] {
+				width: 320px !important;
+				height: 180px;
+				background-image: url(http://www.simplon-charleville.fr/emailing/anim.gif);
+				background-size: contain;
+			}
+			td[class=txt2] {
+				font-size: 10px !important;
+			}
+		}
+	</style>
+</head>
+
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0">
+	<div align="center" style="background-color:#ffffff">
+		<table style="display:inline-table;" border="0" cellpadding="0" cellspacing="0" width="600" bgcolor="#ffffff" class="w600">
+			<tr>
+				<td colspan="3" height="30" bgcolor="#f1f1f1" align="center" valign="middle" class="txt2" style="padding:0;margin:0;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#7f7f7f;line-height:normal;">Si vous ne parvenez pas &agrave; lire cet email, <a href="#" target="_blank" style="color:#7f7f7f;text-decoration:underline;"><span style="color:#7f7f7f;">cliquez ici (lien vers la page HTML)</span></a></td>
+			</tr>
+			<tr>
+				<td width="60" class="w60"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="60" height="40" border="0" style="display:block;" /></td>
+				<td width="480" class="w480"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="480" height="1" border="0" style="display:block;" /></td>
+				<td width="60" height="40" class="w60"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="60" height="40" border="0" style="display:block;" /></td>
+			</tr>
+			<tr>
+				<td colspan="3" align="center" height="81"><img src="http://www.simplon-charleville.fr/emailing/logo-simplon.gif" width="144" height="81" alt="Simplon" border="0" style="display:block;" /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="30" border="0" style="display:block;" /></td>
+				<td height="30"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="30" border="0" style="display:block;" /></td>
+			</tr>
+			<tr>
+				<td><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="1" border="0" style="display:block;" /></td>
+				<td align="center" style="padding:0;margin:0;font-family:Arial, Helvetica, sans-serif;font-size:17px;font-weight:normal;color:#83878a;line-height:normal;"><strong>Bonnes pratiques.</strong></td>
+				<td><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="1" border="0" style="display:block;" /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="25" border="0" style="display:block;" /></td>
+				<td height="25"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="25" border="0" style="display:block;" /></td>
+			</tr>
+			<tr>
+				<td><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="1" border="0" style="display:block;" /></td>
+				<td align="left" style="padding:0;margin:0;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:normal;color:#7f7f7f;line-height:normal;">
+					<p style="padding:0;margin:0 0 1.4em 0;">
+            - Utiliser les balises standards (table, tr, td, span&hellip;) pour la structure. La sémantique HTML n'a pas d'importance car il n'y a pas de besoin de référencement.<br />
+            - <b>Ne pas utiliser de JavaScript</b><br />
+            - Définir les styles directement dans les balises &lt;TD&gt;, &lt;TABLE&gt;, &lt;P&gt;, &lt;A&gt;, &lt;IMG&gt;, &hellip;. Utiliser le style dans le &lt;HEAD&gt; pour la version responsive et les déclarations générales qui seront prises en compte sur certains clients.<br />
+            - Utiliser des polices de caractères standards. L'utilisation de Web Fonts est possible mais pas compatible avec beaucoup de client mail. Bien penser à définir les polices alternatives.<br />
+            - Définir les tailles de lignes et colonnes en utilisant des "spacers" (gif transparents). Des cellules vides ne sont parfois pas prises en compte sous certains clients.<br />
+            - Définir les tailles des natives des images.<br />
+            - Utiliser les formats JPG et GIF (pas de PNG, SVG).<br />
+            - L'appel des images doit se faire en HTTP, directement depuis le serveur ou elles sont hébergées.<br />
+            - Encoder les caract&egrave;res sp&eacute;ciaux. Sous certaines bo&icirc;tes mail, ils peuvent appara&icirc;tre sous la forme &#65533;&nbsp;!!<br />
+            Vous pouvez vous aider de cet outil en ligne&nbsp;: <a href="http://usefulwebtool.com/fr/convertir-entites-html.php" target="_blank" style="color:#7f7f7f;text-decoration:underline;"><span style="color:#7f7f7f;">http://usefulwebtool.com/fr/convertir-entites-html.php</span></a><br />
+            - Cet emailing est un exemple assez simple, c'est une bonne base. Des modèles plus avancés (et encore plus compatibles) sont disponibles sur le Web. Par exemple ceux de <a href="https://litmus.com/resources/free-responsive-email-templates" target="_blank" style="color:#7f7f7f;text-decoration:underline;"><span style="color:#7f7f7f;">Litmus</a></span>.</p>
+				</td>
+				<td height="1"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="1" border="0" style="display:block;" /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="15" border="0" style="display:block;" /></td>
+				<td height="15"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="15" border="0" style="display:block;" /></td>
+			</tr>
+			<tr>
+				<td colspan="3" align="center" height="248" class="img1"><img src="http://www.simplon-charleville.fr/emailing/visu.jpg" width="480" height="248" alt="Un texte alternatif" border="0" style="display:block;" /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="40" border="0" style="display:block;" /></td>
+				<td height="40"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="40" border="0" style="display:block;" /></td>
+			</tr>
+			<tr>
+				<td colspan="3" align="center" style="padding:0;margin:0;font-family:Arial, Helvetica, sans-serif;font-size:17px;font-weight:normal;color:#83878a;line-height:normal;"><strong>Pour tester le rendu de votre emailing sous diff&eacute;rents clients&nbsp;:</strong></td>
+			</tr>
+			<tr>
+				<td colspan="2"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="25" border="0" style="display:block;" /></td>
+				<td height="25"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="25" border="0" style="display:block;" /></td>
+			</tr>
+			<tr>
+				<td><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="1" border="0" style="display:block;" /></td>
+				<td align="left" style="padding:0;margin:0;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:normal;color:#7f7f7f;line-height:normal;">
+					<p style="padding:0;margin:0 0 1.4em 0;">Il existe des outils gratuits&nbsp;:<br /> - <strong>PutsMail&nbsp;:</strong><a href="https://putsmail.com/" target="_blank" style="color:#7f7f7f;text-decoration:underline;"><span style="color:#7f7f7f;">https://putsmail.com/</span></a>. Permet d'envoyer
+						votre emailing directement sur des adresses e-mail personnelles.<br /> - <strong>Inbox Inspector&nbsp;:</strong><a href="http://www.inboxinspector.com/" target="_blank" style="color:#7f7f7f;text-decoration:underline;"><span style="color:#7f7f7f;">http://www.inboxinspector.com/</span></a>.
+						Permet d'avoir un rendu sous différents clients mail.<br /><br /> Et des payants&nbsp;: Litmus, Email on Acid, &hellip;</p>
+				</td>
+				<td height="1"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="1" border="0" style="display:block;" /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="25" border="0" style="display:block;" /></td>
+				<td height="25"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="25" border="0" style="display:block;" /></td>
+			</tr>
+			<tr>
+				<td colspan="3" bgcolor="#d9e4f0" align="center" height="260" class="img2"><img src="http://www.simplon-charleville.fr/emailing/anim.gif" width="460" height="260" alt="Un texte alternatif" border="0" style="display:block;" /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="25" border="0" style="display:block;" /></td>
+				<td height="25"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="25" border="0" style="display:block;" /></td>
+			</tr>
+			<tr>
+				<td><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="1" border="0" style="display:block;" /></td>
+				<td align="center" style="padding:0;margin:0;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:normal;color:#7f7f7f;line-height:normal;">Un bloc de texte.</td>
+				<td height="1"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="1" border="0" style="display:block;" /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="25" border="0" style="display:block;" /></td>
+				<td height="25"><img src="http://www.simplon-charleville.fr/emailing/spacer.gif" width="1" height="25" border="0" style="display:block;" /></td>
+			</tr>
+			<tr>
+				<td colspan="3" height="75" bgcolor="#f1f1f1" align="center" valign="middle" class="txt2" style="padding:0;margin:0;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#7f7f7f;line-height:normal;">Le respect de votre vie priv&eacute;e est important pour nous.<br />Vous pouvez consulter notre politique vie priv&eacute;e en <a href="#" target="_blank" style="color:#7f7f7f;text-decoration:underline;"><span style="color:#7f7f7f;">cliquant ici</span></a>.<br
+					/>Vous ne souhaitez plus recevoir notre newsletter&nbsp;? <a href="#" target="_blank" style="color:#7f7f7f;text-decoration:underline;"><span style="color:#7f7f7f;">D&eacute;sabonnez-vous ici</span></a>.</td>
+			</tr>
+		</table>
+	</div>
+</body>
+
+</html>
