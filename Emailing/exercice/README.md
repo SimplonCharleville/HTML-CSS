@@ -5,5 +5,6 @@
 * Texte bleu : #264268
 * Texte et bordure du bouton : #02a7ff
 * Font serif : Trebuchet MS
-* Font sans serif : 
+* Font sans serif : Cambria
+* Couleur de fond du bouton : #ececec
 * Ajouter en haut de page un lien vers la version en ligne et en bas de page un lien pour se désinscrire
