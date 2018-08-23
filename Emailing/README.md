@@ -20,3 +20,11 @@
 * Encoder les caract&egrave;res sp&eacute;ciaux. Sous certaines bo&icirc;tes mail, ils peuvent appara&icirc;tre sous la forme &#65533;&nbsp;!!
 Vous pouvez vous aider de cet outil en ligne&nbsp;: [Usefool Web Tool](http://usefulwebtool.com/fr/convertir-entites-html.php)
 * Le fichier emailing.html est un exemple assez simple, c'est une bonne base. Des modèles plus avancés (et encore plus compatibles) sont disponibles sur le Web. Par exemple ceux de [Litmus](https://litmus.com/resources/free-responsive-email-templates) (ici joints).
+
+### Pour tester le rendu de votre emailing sous différents clients :
+
+Il existe des outils gratuits :
+* [PutsMail](https://putsmail.com/) : permet d'envoyer votre emailing directement sur des adresses e-mail personnelles.
+* [Inbox Inspector](http://www.inboxinspector.com/) : permet d'avoir un rendu sous différents clients mail.
+
+Et des payants : Litmus, Email on Acid, …
