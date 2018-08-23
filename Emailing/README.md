@@ -16,4 +16,4 @@
 * L'appel des images doit se faire en HTTP, directement depuis le serveur ou elles sont hébergées.<br />
 * Encoder les caract&egrave;res sp&eacute;ciaux. Sous certaines bo&icirc;tes mail, ils peuvent appara&icirc;tre sous la forme &#65533;&nbsp;!!
 Vous pouvez vous aider de cet outil en ligne&nbsp;: [Usefool Web Tool](http://usefulwebtool.com/fr/convertir-entites-html.php)
-* Cet emailing est un exemple assez simple, c'est une bonne base. Des modèles plus avancés (et encore plus compatibles) sont disponibles sur le Web. Par exemple ceux de [Litmus](https://litmus.com/resources/free-responsive-email-templates).
+* Le fichier emailing.html est un exemple assez simple, c'est une bonne base. Des modèles plus avancés (et encore plus compatibles) sont disponibles sur le Web. Par exemple ceux de [Litmus](https://litmus.com/resources/free-responsive-email-templates) (ici joints).
