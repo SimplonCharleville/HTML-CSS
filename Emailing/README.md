@@ -15,7 +15,7 @@
 * Définir les tailles de lignes et colonnes en utilisant des "spacers" (gif transparents). Des cellules vides ne sont parfois pas prises en compte sous certains clients.
 * Définir les tailles natives des images.
 * Utiliser les formats JPG et GIF pour les images (pas de PNG, SVG).
-* Ajouter des ALT aux images quand nécessaires (certains clients, par défaut) n'affichent pas les images mais afficherons le texte alternatif.
+* Ajouter des ALT aux images quand nécessaires (certains clients, par défaut, n'affichent pas les images mais afficherons le texte alternatif).
 * L'appel des images doit se faire en HTTP, directement depuis le serveur ou elles sont hébergées.<br />
 * Encoder les caract&egrave;res sp&eacute;ciaux. Sous certaines bo&icirc;tes mail, ils peuvent appara&icirc;tre sous la forme &#65533;&nbsp;!!
 Vous pouvez vous aider de cet outil en ligne&nbsp;: [Usefool Web Tool](http://usefulwebtool.com/fr/convertir-entites-html.php)
