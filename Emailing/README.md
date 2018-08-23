@@ -2,7 +2,7 @@
 
 #### La création d'emailing est spécifique en HTML. Beaucoup de clients mail ne supporte pas le HTML et CSS avancés. Il faut utiliser des balises standards et intégrer les styles directement dans les balises HTML.
 #### Le fichier "emailing.html" contient le code d'un emailing "de base".
-#### Pour des emailings plus compliqués, vous pouvez vous inspirer des templates de Litmus joints qui maximilisent la compatibilité entre les différents clients mail.
+#### Pour des emailings plus compliqués, vous pouvez vous inspirer des templates de Litmus joints qui maximisent la compatibilité entre les différents clients mail.
 
 ### Quelques bonnes pratiques
 
