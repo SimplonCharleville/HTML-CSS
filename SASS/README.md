@@ -16,7 +16,7 @@ Vous devez, à minima :
   * ajouter Compass à votre projet
   * ajouter le reset
   * utiliser différents éléments du framework (au moins 1 mixin et 1 fonction) (cf documentation)
-  * ajouter des feuilles de style partielles pour le header et le footer
+  * ajouter des feuilles de style partielles pour les librairies Compass, le header et le footer
   * créer un sprite CSS avec les icônes fournis avec effet hover (à ajouter par ex. dans le footer)
   
  Vous pouvez ensuite ajouter autant d'élèments que vous le souhaitez...
