@@ -2,7 +2,7 @@
 
 #### Sass (Syntactically Awesome Stylesheets) est un langage de génération de feuilles de style. A partir d'un fichier .scss, on génère un fichier .css "standard". Sass permet d'écrire plus rapidement les feuilles de style avec la possibilité d'intégrer des variables, des nestings, des mixins, des fonctions...
 
-### A partir d'une page HTML du projet "Little One Page" ou "Simplon Charleville", recréer le CSS en utilisant SASS et Compass.
+### A partir d'une page HTML du projet "Little One Page" ou "Simplon Charleville", recréer le CSS en utilisant SASS et Compass (faire un nouveau repo GitHub).
 #### Vous devrez peut-être ajouter/adpater des éléments pour effectuer le minimum demandé, mais l'objectif ici est d'utiliser SASS, pas d'écrire du HTML.
 
 Vous devez, à minima :
