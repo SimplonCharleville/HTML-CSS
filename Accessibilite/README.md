@@ -16,8 +16,26 @@ Pour l'exercie, vous devez à minima :
   
  Vous pouvez ensuite ajouter autant d'élèments que vous le souhaitez...
  
-#### En complément, Simplon propose de passer la certification Opquast "Maîtrise de la qualité en projet Web".
-* [Site d'Opquast](https://www.opquast.com/)
+### En complément, Simplon propose de passer la certification Opquast "Maîtrise de la qualité en projet Web".
+#### Objectifs de la certification
+La certification Opquast permet d'évaluer les compétences en matière de qualité Web (développement, accessibilité, ergonomie, référencement, contenus, services, etc.).
+
+La qualité Web permet, entre autres, à celles et ceux qui la passent d’attester de compétences dans la réalisation d’un site Web accessible pour des utilisateurs handicapés par exemple.
+
+* Vérification de la maîtrise des notions clés et du vocabulaire nécessaire aux échanges avec d'autres professionnels
+des différents métiers Web et à la compréhension des enjeux qualités concernés.
+* Vérification de la connaissance du processus de conception d'un site ou d'un service en ligne, de ses étapes et des
+enjeux qualité propres à chacune de celles-ci, ainsi que du rôle des différents métiers impliqués.
+* Vérification des connaissances fondamentales sur l'accessibilité numérique et la démarche de conception
+universelle.
+* Vérification de la capacité à identifier et prévenir les risques qualité majeurs tout au long du processus de
+conception d'un site ou d'un service en ligne.
+* Vérification de la capacité à mobiliser une check-list qualité aux différentes phrases d'un projet.
+
+Vous pouvez effectuer des tests directement sur le site d'Opquast.
+Si vous êtes intéressé pour passer la certification, faites nous-en la demande.
+
+#### [Site d'Opquast](https://www.opquast.com/)
 
 ### Ressources :
 * [Site W3C : la bible de l'accessibilité](https://www.w3.org/Translations/WCAG20-fr/)
