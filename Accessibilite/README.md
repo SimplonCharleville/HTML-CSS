@@ -15,7 +15,16 @@ Pour l'exercie, vous devez à minima :
 * ajouter une video en adaptant les boutons de contrôle
   
  Vous pouvez ensuite ajouter autant d'élèments que vous le souhaitez...
- 
+
+### Ressources :
+* [Site W3C : la bible de l'accessibilité](https://www.w3.org/Translations/WCAG20-fr/)
+* [AcceDe Web : guide complet](https://www.accede-web.com/)
+* [MDN : guide sur la sémantique HTML](https://developer.mozilla.org/fr/docs/Apprendre/a11y/HTML)
+* [MDN : guide sur les attributs role](https://www.w3.org/TR/wai-aria/#roles)
+* [MDN : guide sur les éléments multimédia](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Multimedia)
+* [WAVE : un outil pour vérifier l'accessibilité de votre site](https://wave.webaim.org/)
+* ...
+
 ### En complément, Simplon propose de passer la certification Opquast "Maîtrise de la qualité en projet Web".
 #### Objectifs de la certification
 La certification Opquast permet d'évaluer les compétences en matière de qualité Web (développement, accessibilité, ergonomie, référencement, contenus, services, etc.).
@@ -36,12 +45,3 @@ Vous pouvez effectuer des tests directement sur le site d'Opquast.
 Si vous êtes intéressé pour passer la certification, faites nous-en la demande.
 
 #### [Site d'Opquast](https://www.opquast.com/)
-
-### Ressources :
-* [Site W3C : la bible de l'accessibilité](https://www.w3.org/Translations/WCAG20-fr/)
-* [AcceDe Web : guide complet](https://www.accede-web.com/)
-* [MDN : guide sur la sémantique HTML](https://developer.mozilla.org/fr/docs/Apprendre/a11y/HTML)
-* [MDN : guide sur les attributs role](https://www.w3.org/TR/wai-aria/#roles)
-* [MDN : guide sur les éléments multimédia](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Multimedia)
-* [WAVE : un outil pour vérifier l'accessibilité de votre site](https://wave.webaim.org/)
-* ...
