@@ -15,6 +15,9 @@ Pour l'exercie, vous devez à minima :
 * ajouter une video en adaptant les boutons de contrôle
   
  Vous pouvez ensuite ajouter autant d'élèments que vous le souhaitez...
+ 
+#### En complément, Simplon propose de passer la certification Opquast "Maîtrise de la qualité en projet Web".
+* [Site d'Opquast](https://www.opquast.com/)
 
 ### Ressources :
 * [Site W3C : la bible de l'accessibilité](https://www.w3.org/Translations/WCAG20-fr/)
