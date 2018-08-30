@@ -8,6 +8,7 @@
 ### Quelques bonnes pratiques
 
 * Utiliser les balises standards (table, tr, td, span&hellip;) pour la structure. La sémantique HTML n'a pas d'importance car il n'y a pas de besoin de référencement.
+* **Ne pas utiliser de ROWSPAN** (mais COLSPAN OK)
 * **Ne pas utiliser de JavaScript.**
 * Définir les styles directement dans les balises &lt;TD&gt;, &lt;TABLE&gt;, &lt;P&gt;, &lt;A&gt;, &lt;IMG&gt;, &hellip;.<br />
 * Utiliser le style dans le &lt;HEAD&gt; pour la version responsive et les déclarations générales qui seront prises en compte sur les clients modernes.
