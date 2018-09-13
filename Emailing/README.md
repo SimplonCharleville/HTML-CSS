@@ -27,7 +27,7 @@ Vous pouvez vous aider de cet outil en ligne&nbsp;: [Usefool Web Tool](http://us
 ### Pour tester le rendu de votre emailing sous différents clients :
 
 Il existe des outils gratuits :
-* ![PutsMail](https://putsmail.com/) : permet d'envoyer votre emailing directement sur des adresses e-mail personnelles.
+* [PutsMail](https://putsmail.com/) : permet d'envoyer votre emailing directement sur des adresses e-mail personnelles.
 * [Inbox Inspector](http://www.inboxinspector.com/) : permet d'avoir un rendu sous différents clients mail.
 
 Et des payants : Litmus, Email on Acid, …
